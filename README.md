@@ -92,11 +92,11 @@ All experiments run on a server with Intel(R) Xeon(R) Gold 6230 CPU @2.10GHz and
 | :--------------: | :-----------: | :---------------------: | :------: | :--------: | :--------: |
 |       Cora       |     0.001     |          3,000          |    20    |    512     |   PReLU    |
 |     Citeseer     |     0.001     |          3,000          |    20    |    512     |   PReLU    |
-|      Pubmed      |     0.001     |          4,000          |    40    |    256     |   PReLU    |
-| Amazon-Computers |     0.001     |          2,000          |    20    |    256     |   PReLU    |
-|   Amazon-Photo   |     0.001     |          2,000          |    20    |    256     |   PReLU    |
-|   Coauthor-CS    |     0.001     |          2,000          |    20    |    256     |   PReLU    |
-|       ACM        |     0.001     |          2,000          |    20    |    512     |   PReLU    |
+|      Pubmed      |     0.001     |          3,000          |    40    |    256     |   PReLU    |
+| Amazon-Computers |     0.001     |          3,000          |    20    |    256     |   PReLU    |
+|   Amazon-Photo   |     0.001     |          3,000          |    20    |    256     |   PReLU    |
+|   Coauthor-CS    |     0.001     |          3,000          |    20    |    256     |   PReLU    |
+|       ACM        |     0.001     |          3,000          |    20    |    512     |   PReLU    |
 
 ## Overall Workflow
 
